@@ -1,0 +1,23 @@
+{
+  "name": "ch02",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arthurlee/react-redux-book-study.git"
+  },
+  "author": "arthur",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/arthurlee/react-redux-book-study/issues"
+  },
+  "homepage": "https://github.com/arthurlee/react-redux-book-study#readme",
+  "dependencies": {
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0"
+  }
+}
