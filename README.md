@@ -6,6 +6,10 @@
 - [react-redux-book](https://github.com/lewis617/react-redux-book)
 - [react-redux-heroku](https://github.com/lewis617/react-redux-heroku)
 
+# 后续
+- Babel CLI 的用法
+- ES2015
+
 # 参考
 - [React](https://reactjs.org)
 - [React 中文](http://react-china.org)
