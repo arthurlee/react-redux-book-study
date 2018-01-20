@@ -29,7 +29,7 @@
 - 在 package.json 里面的 “scripts” 里面替换 "start": "webpack && http-server -p 3000",
 - 执行 npm start 以编译和启动 http-server
 - 访问 http://127.0.0.1:3000 看到结果
-- 第三章结果
+- 第三章结束
 
 
 
