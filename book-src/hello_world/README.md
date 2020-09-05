@@ -1,4 +1,4 @@
-# 创建过程，并在 node 里面执行
+# 第二章 在在 Node.js 中执行 React
 - 创建 package.json
   npm init
 - 安装 React
@@ -16,7 +16,7 @@
 - 执行 npm start 可以看到结果
 - 第二章结束
 
-# 在浏览器中运行
+#  第三章 在浏览器中运行 React
 - 创建 src/client.js
 - 创建 index.html
 - 安装 webpack 和 babel-loader
@@ -31,7 +31,7 @@
 - 访问 http://127.0.0.1:3000 看到结果
 - 第三章结束
 
-
-
-
+# 第四章 开发服务器和热替换
+- 安装必要的 module
+  npm install --save-dev express babel-preset-react-hmre webpack-dev-middleware webpack-hot-middleware
 
